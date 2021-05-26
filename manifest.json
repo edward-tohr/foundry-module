@@ -1,0 +1,40 @@
+{
+	"name": "xtgtec",
+	"title": "Xanatasha's Guide to Every Cauldrom",
+	"description": "additional content for DnD5e",
+	"author": "Edward Tohr",
+	"version": "1.0.0",
+	"minimumCoreVersion": "0.7.9",
+	"compatibleCoreVersion":"0.8.5",
+	"packs": [
+    			{
+      			"name": "custom-classes",
+      			"label": "Custom Classes",
+      			"path": "./packs/xanatashas-guide-to-every-cauldron.db",
+      			"entity": "Item",
+      			"module": "xtgtec"
+				},
+    			{
+      			"name": "feats",
+      			"label": "Feats",
+      			"path": "./packs/feats.db",
+      			"entity": "Item",
+      			"module": "xtgtec"
+				},
+        {
+            "name": "unearthed-arcana",
+            "label": "Unearthed Arcana",
+            "path": "./packs/unearthed-arcana.db",
+            "entity": "Item",
+            "module": "xtgtec"
+        },
+        {
+            "name": "xanatashas-guide",
+            "label": "Xanatasha's Guide to Cauldrons",
+            "path": "./packs/xanatashas-guide-to-cauldroms.db",
+            "entity": "Item",
+            "module": "xtgtec"
+        }
+
+			]
+  }
