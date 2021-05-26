@@ -6,6 +6,7 @@
 	"version": "1.0.0",
 	"minimumCoreVersion": "0.7.9",
 	"compatibleCoreVersion":"0.8.5",
+	"download":"https://github.com/edward-tohr/foundry-module/releases/download/1.0/xanatashas.zip",
 	"packs": [
     			{
       			"name": "custom-classes",
